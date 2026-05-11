@@ -1,5 +1,5 @@
 ### Disease name
-Porcine Pleuropneumonia
+*Actinobacillus pleuropneumoniae*
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

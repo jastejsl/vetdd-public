@@ -1,5 +1,5 @@
 ### Disease name
-Nocardiosis
+*Nocardia asteroides*
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

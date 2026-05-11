@@ -1,5 +1,5 @@
 ### Disease name
-Bovine Coronavirus
+Bovine coronavirus
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

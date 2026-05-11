@@ -1,5 +1,5 @@
 ### Disease name
-Feline calicivirus
+Blackquarter
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

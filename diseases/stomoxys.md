@@ -1,5 +1,5 @@
 ### Disease name
-Feline calicivirus
+Stomoxys
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

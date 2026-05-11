@@ -1,5 +1,5 @@
 ### Disease name
-Lumpy Skin Disease
+Lumpy skin disease virus (Neethling strain)
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

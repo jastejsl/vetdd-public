@@ -1,5 +1,5 @@
 ### Disease name
-Contagious Pustular Dermatitis
+Orf virus (Contagious Pustular Dermatitis / Vuilbek)
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

@@ -1,5 +1,5 @@
 ### Disease name
-Infectious Bovine Rhinotracheitis
+Bovine alphaherpesvirus 1 / BoHV-1 (Infectious Bovine Rhinopneumonitis / IPV / IPB)
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

@@ -1,5 +1,5 @@
 ### Disease name
-Classical Swine Fever
+Classical swine fever virus / Hog cholera virus
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

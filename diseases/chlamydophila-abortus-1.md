@@ -1,5 +1,5 @@
 ### Disease name
-Feline calicivirus
+Chlamydophila abortus (1)
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

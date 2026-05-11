@@ -1,5 +1,5 @@
 ### Disease name
-Equine Infectious Anaemia
+Equine infectious anaemia virus
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

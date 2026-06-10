@@ -1,5 +1,5 @@
 ### Disease name
-*Campylobacter jejuni*
+Campylobacteriosis
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

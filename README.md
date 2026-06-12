@@ -1,4 +1,4 @@
-# VetDD Public Repository
+# VetDD Public Channels
 
    > Please note there is a "navigation" button on the top right of this page's header for you to navigate to the section you wish to read.
 

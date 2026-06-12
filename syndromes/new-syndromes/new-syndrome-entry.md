@@ -1,0 +1,1 @@
+Replace this with the contents of the syndrome-template and submit an edit.

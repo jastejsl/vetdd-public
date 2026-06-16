@@ -24,3 +24,6 @@ Initial: Content shown in the app is initial content from launch
 
 ### Related Academic Journals/Articles
 Initial: Content shown in the app is initial content from launch
+
+## Test purposes
+Add: This is a test

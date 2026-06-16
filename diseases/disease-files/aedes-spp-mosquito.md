@@ -26,4 +26,4 @@ Initial: Content shown in the app is initial content from launch
 Initial: Content shown in the app is initial content from launch
 
 ## Test purposes
-Add: This is a test
+Add: This is a test, test addition

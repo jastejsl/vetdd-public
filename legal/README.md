@@ -1,10 +1,9 @@
 ---
+description: Privacy Policy and Terms of Service associated to using VetDD
 icon: gavel
 ---
 
 # Legal files
-
-The folder contains the Privacy Policy and Terms of Service associated to using VetDD.
 
 Please navigate to the file you wish to read.
 

@@ -1,8 +1,15 @@
-# Privacy Policy
+---
+icon: gavel
+---
 
-The privacy policy for VetDD can be found in the PDF below:
+# Legal files
 
-{% file src=".gitbook/assets/Privacy Policy.pdf" %}
+The folder contains the Privacy Policy and Terms of Service associated to using VetDD.
 
-To trace the updates, please find the PDF file in the `/legal` folder in the public repository.
+Please navigate to the file you wish to read.
+
+* [README (1).md](<README (1).md> "mention")
+* [terms-of-service.md](terms-of-service.md "mention")
+
+***
 

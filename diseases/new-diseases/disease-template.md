@@ -1,6 +1,8 @@
-# Disease name
-> (replace the above with the disease's name and delete this line)
+---
+description: Replace the above with the disease name
+---
 
+# disease-template
 
 ### Commonly known as
 
@@ -11,37 +13,42 @@
 (insert scientific name/names here)
 
 ### Category
+
 (inform if it is a Virus/Bacteria/Protozoa/Parasite/Nutriotional/Toxic Plant/Toxin/Mycotoxin)
 
-   -
+*
 
 ### Species affected
+
 (insert list of species affected by this disease)
 
-   -
-   -
-   -
+*
+*
+*
 
 ### Primary Organ Systems affected
+
 (insert list of main organ systems affected by this disease)
 
-   -
-   -
-   -
+*
+*
+*
 
 ### Secondary Organ Systems affected
+
 (insert list of secondary organ systems affected by this disease)
 
-   -
-   -
-   -
+*
+*
+*
 
 ### Clinical Signs
+
 (insert list of clinical signs & pathological signs here. please try stick to phrases/one word signs)
 
-   -
-   - 
-   -
+*
+*
+*
 
 ### Gross Pathology
 
@@ -52,19 +59,21 @@
 (insert explanation of pathophysiology that occurs from this disease)
 
 ### Diagnosis
+
 (insert detail (1-2 sentences) per diagnositc procedure required to diagnose this disease)
 
-   -
-   -
-   -
+*
+*
+*
 
 ### Zoonosis/Notifable or Controlled (per country)
 
-   - Zoonosis: Yes/No
-   - Notifiable: Yes/No (include country)
-   - Controlled: Yes/No (include country)
+* Zoonosis: Yes/No
+* Notifiable: Yes/No (include country)
+* Controlled: Yes/No (include country)
 
 ### Country
+
 (inform detail of which country this disease is prevalent in per your knowledge/sources)
 
 ### Other details

@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Syndromes](README.md)
+* [new-syndromes](new-syndromes/README.md)
+  * [syndrome-template](<new-syndromes/0. syndrome-template.md>)
+  * [new-syndrome-entry](new-syndromes/new-syndrome-entry.md)
+* [syndrome-files](syndrome-files/README.md)
+  * [colic](syndrome-files/colic.md)
+  * [congestive-heart-failure](syndrome-files/congestive-heart-failure.md)
+  * [fading-puppy-syndrome](syndrome-files/fading-puppy-syndrome.md)
+  * [hoof-deformities](syndrome-files/hoof-deformities.md)
+  * [hypocalcaemia](syndrome-files/hypocalcaemia.md)
+  * [immunosuppression](syndrome-files/immunosuppression.md)
+  * [interstitial-keratitis](syndrome-files/interstitial-keratitis.md)
+  * [lameness](syndrome-files/lameness.md)
+  * [squamous-cell-carcinoma](syndrome-files/squamous-cell-carcinoma.md)

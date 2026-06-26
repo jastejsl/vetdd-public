@@ -1,5 +1,5 @@
 ### Disease name
-Leptospirosis
+Leptospira spp.
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

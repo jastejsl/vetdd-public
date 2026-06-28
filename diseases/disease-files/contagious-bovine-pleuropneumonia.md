@@ -1,5 +1,5 @@
 ### Disease name
-Large coarse bont-legged tick
+Contagious Bovine Pleuropneumonia
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

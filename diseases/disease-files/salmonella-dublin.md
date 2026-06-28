@@ -1,5 +1,5 @@
 ### Disease name
-Aedes spp. (Mosquito)
+Salmonella Dublin
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch
@@ -24,6 +24,3 @@ Initial: Content shown in the app is initial content from launch
 
 ### Related Academic Journals/Articles
 Initial: Content shown in the app is initial content from launch
-
-## Test purposes
-Add: This is a test, test addition

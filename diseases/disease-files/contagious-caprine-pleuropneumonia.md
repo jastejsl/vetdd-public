@@ -1,5 +1,5 @@
 ### Disease name
-Pale bont-legged tick
+Contagious Caprine Pleuropneumonia
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

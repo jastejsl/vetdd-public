@@ -1,5 +1,5 @@
 ### Disease name
-Small smooth bont-legged tick
+Calf Diphtheria
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

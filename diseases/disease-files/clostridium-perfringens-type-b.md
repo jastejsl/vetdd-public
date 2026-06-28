@@ -1,5 +1,5 @@
 ### Disease name
-Anopheles spp. (Mosquito)
+Clostridium perfringens Type B
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

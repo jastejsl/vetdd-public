@@ -1,5 +1,5 @@
 ### Disease name
-Culex spp (Moquitos)
+Brucella melitensis
 
 ### Commonly known as
 Initial: Content shown in the app is initial content from launch

@@ -6,14 +6,30 @@ Below is a quick list of the bacteria already added and those yet to be added to
 - [x]  Actinobacillus lignieresii
 - [x]  Actinobacillus pleuropneumoniae
 - [x]  Actinomyces bovis
+- [x]  Anaplasma centrale
+- [ ]  Bacillus antracis
 - [ ]  Bibersteinia trehalosi | Don’t really want to add it
 - [x]  Bordetella bronchiseptica
 - [x]  Brachyspira hyodysenteriae
+- [x]  Brucella abortus
+- [x]  Brucella canis
+- [x]  Brucella melitensis
+- [x]  Brucella ovis
 - [x]  Campylobacter coli
-- [ ]  Campylobacter fetus subsp. fetus
+- [x]  Campylobacter fetus subsp. fetus
 - [x]  Campylobacter fetus subsp. venerealis
 - [x]  Campylobacter jejuni
-- [x]  Chlamydia abortus
+- [x]  Chlamydophila abortus
+- [x]  Clostridium botulinum
+- [x]  Clostridium chauvoei
+- [x]  Clostridium difficile
+- [x]  Clostridium perfringens
+- [x]  Clostridium botulinum
+- [x]  Clostridium perfringens type A
+- [x]  Clostridium perfringens type B
+- [x]  Clostridium perfringens type C
+- [x]  Clostridium perfringens Type D
+- [x]  Clostridium tetani
 - [x]  Corynebacterium cystitidis
 - [x]  Corynebacterium pilosum
 - [x]  Corynebacterium pseudotuberculosis
@@ -22,12 +38,20 @@ Below is a quick list of the bacteria already added and those yet to be added to
 - [x]  Dermatophilus congolensis
 - [x]  Erysipelothrix rhusiopathiae
 - [x]  Escherichia coli
+- [x]  Fusobacterium necrophorum
 - [x]  Histophilus somni
 - [x]  Klebsiella spp.
 - [x]  Lawsonia intracellularis
 - [x]  Leptospira spp.
 - [x]  Listeria monocytogenes
 - [x]  Mannheimia haemolytica
+- [x]  Mycobacterium avium
+- [x]  Mycobacterium avium subsp. paratuberculosis
+- [x]  Mycobacterium bovis
+- [x]  Mycoplasma bovis
+- [x]  Mycoplasma capricolum
+- [x]  Mycoplasma capricolum subsp. capripneumoniae
+- [x]  Mycoplasma mycoides
 - [x]  Mycoplasma mycoides subsp. mycoides
 - [x]  Nocardia asteroides
 - [x]  Pasteurella multocida

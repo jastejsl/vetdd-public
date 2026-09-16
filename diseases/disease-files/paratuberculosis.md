@@ -2,7 +2,7 @@
 
 **Primary Organ System:** Gastrointestinal 
 
-**Secondary Organ System:** Lymphatic; Rarely: liver, spleen, uterus, udder, male reproductive tract
+**Secondary Organ System:** Lymphatic
 
 **Transmission:** Mostly faecal-oral route; in utero; lambs via teats soiled with infected faeces; ingestion of milk from infected dams; the organism survives months (up to 1 year) in moist soils
 

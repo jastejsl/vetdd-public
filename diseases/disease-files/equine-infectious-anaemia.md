@@ -2,8 +2,6 @@
 
 **Affects:** Horses and other equids
 
-Recovered animals remain carriers for life; Southern Africa is currently free from the virus
-
 **Primary Organ System:** Haematopoietic/Immune; Vascular
 
 **Transmission:** Via infected blood: iatrogenic or blood-sucking insects; virus survives in bloodstream macrophages

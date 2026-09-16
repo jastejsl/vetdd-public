@@ -2,8 +2,6 @@
 
 **Affects:** Horses; especially Arab foals with severe combined immunodeficiency disease (SCID)
 
-Subclinical in normal foals; most severe disease in Arabian foals with SCID
-
 **Primary Organ System:** Respiratory (upper)
 
 **Clinical Signs:**

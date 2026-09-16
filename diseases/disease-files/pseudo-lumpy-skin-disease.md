@@ -4,8 +4,6 @@
 
 **Affects:** Cattle
 
-Worldwide; 2 clinical entities: nodular skin disease (Southern Africa) and ulcerative dermatitis of teats/udder (widespread); lesions more superficial than LSD — does not affect internal organs
-
 **Primary Organ System:** Integumentary (Skin); Mammary
 
 **Clinical Signs:**

@@ -2,9 +2,7 @@
 
 **Primary Organ System:** Gastrointestinal (small and large intestine)
 
-**Tranmission:** Faecal-oral route; bacteria shed in faeces; animals can develop latent infections and remain carriers
-
-**Gram Negative** (Obligate intracellular, curved bacteria)
+**Transmission:** Faecal-oral route; bacteria shed in faeces; animals can develop latent infections and remain carriers
 
 **Clinical Signs:**
 

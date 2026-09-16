@@ -8,13 +8,9 @@
 
 **Affects:** Cattle (beef feedlot cattle primarily)
 
-Commensal organism of upper airway and reproductive tract in cattle; opportunistic pathogen requiring mucosal trauma for infection establishment; course of disease is rapid and most animals die within 24 hours
-
 **Primary Organ System:** Nervous system
 
 **Secondary Organ System:** Cardiovascular; Respiratory
-
-**Gram Negative** (Facultative anaerobe, non-spore-forming bacteria)
 
 **Clinical Signs:**
 

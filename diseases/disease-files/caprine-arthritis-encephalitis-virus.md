@@ -31,11 +31,3 @@ Not diagnosed in South Africa; morphologically and physically indistinguishable 
 - Pathology
 
 - could not find information
-
----
-
-### Markers:
-
-**Lab Findings**:
-
-- could not find information

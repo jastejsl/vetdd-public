@@ -1,4 +1,4 @@
-**Specific Causes:** Bovine leukaemia virus (BLV; C-type retrovirus)
+**Specific Causes:** Bovine leukaemia virus
 
 **Affects:** Cattle primarily; sheep can be infected from cattle (not between sheep)
 

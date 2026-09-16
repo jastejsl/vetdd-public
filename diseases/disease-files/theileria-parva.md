@@ -10,13 +10,9 @@ Three forms:
 
 1. January disease/Zimbabwe theileriosis (cattle-associated T. parva bovis). 
 
-Corridor disease mortality above 90%. Malignant, transforming Theileria.
-
 **Primary Organ Systems:** Haematological; Lymphatic
 
 **Identification tips:** Transforming spp.; schizonts in lymphocytes (lymphoproliferation/clonal expansion); piroplasms in RBCs; vectors: Rhipicephalus appendiculatus (brown ear tick) + R. zambeziensis; transstadial transmission.
-
-**Carrier of:** could not find information
 
 **Clinical Signs:**
 

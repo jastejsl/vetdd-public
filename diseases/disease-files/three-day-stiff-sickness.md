@@ -2,8 +2,6 @@
 
 **Affects:** Cattle
 
-Endemic in Africa, southern Asia, and Australasia; seasonal (late summer/early autumn); high morbidity, low mortality; vector-borne
-
 **Primary Organ System:** Musculoskeletal; Vascular
 
 **Secondary Organ System:** Respiratory; Digestive; Metabolic (hypocalcaemia)

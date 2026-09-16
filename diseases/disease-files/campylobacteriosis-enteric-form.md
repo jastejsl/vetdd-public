@@ -4,11 +4,9 @@
 
 **Primary Organ System:** Gastrointestinal
 
-**Tranmission:** Faecal-oral route; contaminated food/water; undercooked poultry
+**Transmission:** Faecal-oral route; contaminated food/water; undercooked poultry
 
 **Other transmission routes:** Unpasteurised milk, polluted water; vertical transmission via cloaca in breeder hens; intensive broiler production; food chain via high-density poultry abattoir
-
-**Gram Negative** (Spiral/S-shaped rods, microaerobic, motile)
 
 **Clinical Signs:**
 

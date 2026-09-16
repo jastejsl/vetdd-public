@@ -2,7 +2,7 @@
 
 **Affects:** Dogs
 
-**Primary Organ System:** Haematological; Lymphatic
+**Primary Organ System:** Vascular; Lymphatic
 
 **Secondary Organ System:** Renal; Nervous system; Ocular
 
@@ -16,9 +16,7 @@
 
 - Chronic: Anterior uveitis; meningitis; severe weight loss; epistaxis; haematuria; melena; petechiae/ecchymoses
 
-- Lab findings (see below)
-
-**Pathological signs:0**
+**Pathological signs:**
 
 - Spleen: Splenomegaly; lymphoreticular hyperplasia
 

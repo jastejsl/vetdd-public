@@ -2,8 +2,6 @@
 
 **Affects:** Domestic and wild felids
 
-Carrier cats shed virus continuously; highly contagious
-
 **Primary Organ System:** Respiratory; Oral
 
 **Secondary Organ System:** Ocular

@@ -10,8 +10,6 @@ Worldwide zoonotic disease; most widespread zoonosis in nature; important cause 
 
 **Transmission:** Urine from maintenance hosts (shed in high numbers); semen (AI); drinking water; pens; aerosols; transplacental and venereal transmission; incidental hosts infected indirectly through damp environments; maintenance hosts shed bacteria in urine, placenta fluid and milk
 
-**Gram Negative** (Obligate aerobic spirochaetes; characteristic corkscrew-like motility; fastidious, slow-growing; survives in watery environments)
-
 **Clinical Signs:**
 
 - Fever and joint/muscle pain
@@ -73,6 +71,8 @@ Chronic:
 - PCR
 
 **Zoonosis:** yes
+
+---
 
 About the specific causative agents:
 

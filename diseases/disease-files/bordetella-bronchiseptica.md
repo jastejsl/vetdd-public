@@ -1,6 +1,6 @@
 **Affects:** Pigs, dogs, cats, rabbits, horses
 
-**Primary Organ System:** Respiratory (nasal cavity and lower respiratory tract)
+**Primary Organ System:** Respiratory 
 
 **Transmission:** Direct contact; aerosol/droplet transmission; infected animals shed bacteria in nasal secretions
 

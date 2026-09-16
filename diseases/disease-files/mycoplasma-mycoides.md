@@ -4,10 +4,6 @@
 
 **Affects:** Sheep (Dorper and Karakul breeds primarily)
 
-Multifactorial aetiology not detailed here (involves Trueperella pyogenes)
-
-Mycoplasma mycoides involved as one of the causative agents that leads to the reproductive losses because of a reluctance of males to mate
-
 **Primary Organ System:** Reproductive 
 
 **Transmission:** Venereal 

@@ -10,9 +10,7 @@ Four clinical forms: peracute/acute septicaemia, subacute vasculitis (diamond sk
 
 **Secondary Organ System:** Integumentary (diamond skin); Musculoskeletal (polyarthritis)
 
-**Tranmission:** Ingestion of contaminated food, soil, faeces or through wounds/biting flies; carrier pigs (tonsils and lymph tissues); environment; birds and rodents (minor)
-
-**Gram Positive** (Non-spore-forming rods; short rods in acute form, long rods in chronic form)
+**Transmission:** Ingestion of contaminated food, soil, faeces or through wounds/biting flies; carrier pigs (tonsils and lymph tissues); environment; birds and rodents (minor)
 
 **Clinical Signs:**
 

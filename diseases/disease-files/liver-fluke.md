@@ -1,4 +1,4 @@
-**Common names:** Liver fluke; sheep liver fluke
+**Caused by:** Fasciola hepatica
 
 **Affects:** 
 

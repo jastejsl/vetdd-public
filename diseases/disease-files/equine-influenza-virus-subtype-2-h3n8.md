@@ -2,8 +2,6 @@
 
 **Affects:** Horses
 
-H3N8 is the current circulating subtype; notifiable and controlled disease in South Africa; high contagion
-
 **Primary Organ System:** Respiratory
 
 **Secondary Organ System:** Musculoskeletal
@@ -51,19 +49,3 @@ Acute:
 - Haemagglutination inhibition test
 
 **Notifiable / Controlled Disease:** yes
-
----
-
-### Markers:
-
-**Lab Findings**:
-
-- could not find information
-
-**Related Disease Complex**:
-
-- could not find information
-
-**Related symptom**:
-
-- H3N8 is the currently circulating equine influenza subtype; vaccination recommended

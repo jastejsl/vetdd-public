@@ -4,15 +4,11 @@
 
 **Affects:** Cattle (primarily); sheep
 
-Causes sporadic abortions; reservoir is the intestinal tract
-
 **Primary Organ System:** Reproductive
 
 **Secondary Organ System:** Gastrointestinal (reservoir)
 
-**Tranmission:** Venereal; can survive many months in frozen semen; found in prepuce of carrier bulls
-
-**Gram Negative** (Spiral/S-shaped rods, microaerobic, motile)
+**Transmission:** Venereal; can survive many months in frozen semen; found in prepuce of carrier bulls
 
 **Clinical Signs:**
 

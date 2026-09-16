@@ -1,14 +1,10 @@
-**Affects:** Cattle (beef feedlot, dairy calves); sheep and goats (pneumonia, mastitis, septicaemia)
-
-Normal commensal of upper respiratory tract; stress/immune depression leads to proliferation; part of Bovine Respiratory Disease Complex (BRDC)
+**Affects:** Cattle (beef feedlot, dairy calves); sheep and goats 
 
 **Primary Organ System:** Respiratory
 
 **Secondary Organ System:** Mammary (mastitis — blue bag in sheep); Cardiovascular (septicaemia)
 
 **Transmission:** Commensal of URT; spread by aerosol; stress-induced proliferation; transport, dehorning, weaning, viral infection predispose; feedlot cattle 45 days of introduction most affected
-
-**Gram Negative** (Rods; family Pasteurellaceae)
 
 **Clinical Signs:**
 
@@ -53,3 +49,7 @@ Acute:
 - PCR (most accurate)
 
 - Serology
+
+(pneumonia, mastitis, septicaemia)
+
+Normal commensal of upper respiratory tract

@@ -4,9 +4,7 @@
 
 **Primary Organ System:** Integumentary (skin/epidermis)
 
-**Tranmission:** Direct contact between infected animals; indirect contact via contaminated environment or dipping; biting insects; skin injuries; wet skin and lesions predispose to infection; rain, high humidity and temperature
-
-**Gram Positive** (Two morphological forms: filamentous hyphae and motile zoospores | Infective form: actinomycete)
+**Transmission:** Direct contact between infected animals; indirect contact via contaminated environment or dipping; biting insects; skin injuries; wet skin and lesions predispose to infection; rain, high humidity and temperature
 
 **Clinical Signs:**
 

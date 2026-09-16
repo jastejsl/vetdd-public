@@ -2,13 +2,9 @@
 
 **Affects:** Cattle, sheep
 
-Most virulent of the Corynebacterium renale group; usually causes only cystitis (rarely progresses to pyelonephritis)
-
 **Primary Organ System:** Urinary
 
-**Tranmission:** Urine aerosol spray onto vulva of susceptible cows in close contact; venereal transmission possible; careless use of AI catheters
-
-**Gram Positive** (Non-sporing, irregular rods; commensal in external urogenital tract of cattle and sheep)
+**Transmission:** Urine aerosol spray onto vulva of susceptible cows in close contact; venereal transmission possible; careless use of AI catheters
 
 **Clinical Signs:**
 

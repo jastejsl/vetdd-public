@@ -2,15 +2,11 @@
 
 **Affects:** Cattle (2–5 years most commonly); horses
 
-Cattle primarily affected; commensal of oropharynx colonised during postpartum period
-
 **Primary Organ System:** Skeletal (bone - mandible/maxilla)
 
 **Secondary Organ System:** Alimentary (oral soft tissues); occasionally liver, lungs, lymph nodes
 
-**Tranmission:** Oral trauma allowing submucosal infection (commensal of oropharynx); predisposed by coarse feed, tooth shedding/eruption, periodontitis
-
-**Gram Positive** (anaerobic rods)
+**Transmission:** Oral trauma allowing submucosal infection (commensal of oropharynx); predisposed by coarse feed, tooth shedding/eruption, periodontitis
 
 **Clinical Signs:**
 

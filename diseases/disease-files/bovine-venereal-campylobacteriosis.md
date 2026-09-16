@@ -6,9 +6,7 @@ One of the two most important causes of infertility and poor calving rates in So
 
 **Primary Organ System:** Reproductive
 
-**Tranmission:** Venereal (sexually transmitted from males to females via bacterial shed in semen); bulls older than 3 years can become persistently infected and act as reservoir hosts
-
-**Gram Negative** (Spiral/S-shaped rods, microaerobic, motile)
+**Transmission:** Venereal (sexually transmitted from males to females via bacterial shed in semen); bulls older than 3 years can become persistently infected and act as reservoir hosts
 
 **Clinical Signs:**
 

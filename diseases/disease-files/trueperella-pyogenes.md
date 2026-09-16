@@ -2,13 +2,9 @@
 
 **Affects:** Sheep (Dorper and Karakul breeds)
 
-End-stage organism in multifactorial aetiology of UBV; aetiology not conclusively resolved; occurs alongside Mycoplasma mycoides subsp. mycoides
-
 **Primary Organ System:** Reproductive
 
 **Transmission:** Venereal
-
-**Gram Positive** (Facultative anaerobic; non-sporing irregular rods)
 
 **Clinical Signs:**
 

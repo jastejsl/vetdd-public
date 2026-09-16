@@ -2,8 +2,6 @@
 
 **Affects:** Water buffalo and cattle only (wild bovids appear resistant)
 
-One of the most important infectious diseases of cattle in Africa; mainly characterised by lung lesions.
-
 **Primary Organ System:** Respiratory
 
 **Secondary Organ System:** Joints (arthritis in young animals — calves up to 6 months)

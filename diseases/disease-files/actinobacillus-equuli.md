@@ -2,15 +2,11 @@
 
 **Affects:** Horses (foals and adult horses)
 
-Foals primarily affected (sleepy foal disease); adult horses develop abortions, septicaemia, nephritis, peritonitis, endocarditis
-
 **Primary Organ System:** Cardiovascular / multi-systemic (septicaemia)
 
 **Secondary Organ System:** Urinary; Respiratory; Musculoskeletal
 
-**Tranmission:** Ingestion, inhalation, via contaminated umbilicus; poor sanitation in foaling environment or colostrum intake deficit contribute
-
-**Gram Negative** (non-motile rods; family Pasteurellaceae)
+**Transmission:** Ingestion, inhalation, via contaminated umbilicus; poor sanitation in foaling environment or colostrum intake deficit contribute
 
 **Clinical Signs:**
 

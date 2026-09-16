@@ -4,15 +4,11 @@
 
 **Affects:** Sheep (primary), goats, cattle, humans (zoonotic)
 
-Major cause of abortion in sheep and goats; most common form of Chlamydiosis in South Africa is ovine enzootic abortion
-
 **Primary Organ System:** Reproductive
 
 **Secondary Organ System:** Lymphoid (latent infection in lymphoid tissues)
 
-**Tranmission:** Faecal-oral route (primary); aerosol; close contact; arthropods; large numbers shed during abortion/parturition via placenta, uterine discharges, faeces
-
-**Gram Negative** (Obligate intracellular pathogen; biphasic life cycle: Elementary body — extracellular infectious stage; Reticulate body — intracellular replicating form; Persistent body — latent stage)
+**Transmission:** Faecal-oral route (primary); aerosol; close contact; arthropods; large numbers shed during abortion/parturition via placenta, uterine discharges, faeces
 
 **Clinical Signs:**
 

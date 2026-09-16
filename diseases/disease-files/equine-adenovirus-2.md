@@ -2,8 +2,6 @@
 
 **Affects:** Horses
 
-Subclinical in normal foals; causes GI infections
-
 **Primary Organ System:** Digestive (GIT)
 
 **Clinical Signs:**

@@ -2,13 +2,9 @@
 
 **Affects:** Sheep, goats, cattle, dogs, cats, birds, reptiles, arthropods, humans (zoonotic)
 
-Very broad host range; extremely resistant to desiccation, pH changes, disinfectant and ultraviolet radiation; organisms remain infective in environment for months
-
 **Primary Organ System:** Reproductive
 
-**Tranmission:** Primarily by inhalation (aerosol from placenta, uterine discharges, vaginal fluid); large numbers shed during abortion/parturition in placenta, faeces, urine, milk; ticks play a minor role
-
-**Gram Negative** (Obligate intracellular pathogen; biphasic life cycle)
+**Transmission:** Primarily by inhalation (aerosol from placenta, uterine discharges, vaginal fluid); large numbers shed during abortion/parturition in placenta, faeces, urine, milk; ticks play a minor role
 
 **Clinical Signs:**
 

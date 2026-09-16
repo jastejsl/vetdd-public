@@ -8,10 +8,6 @@
 
 **Transmission:** Faecal-oral from clinically ill or carrier animals
 
-Carriers hide intracellularly in macrophages of mesenteric lymph nodes, gall bladder, GALT and lamina propria; active carriers shed organisms (stress-precipitated)
-
-**Gram Negative** (Facultative anaerobe  motile; acid-labile; survive in macrophages)
-
 **Clinical Signs:**
 
 - Calves: Enteritis — high fever, putty-like to brown malodorous/watery stool, dehydration; death after 5–7 days in untreated calves (mortality 60%)

@@ -6,7 +6,7 @@
 
 **Secondary Organ System:** Renal; Ocular
 
-**Tranmission:** Horizontal or vertical transmission; saliva through eyes/nose/respiratory tract; milk; blood transfusion; placenta; urine; faeces; shed in saliva, blood and reproductive secretions; infection often through mucous membrane exposure (copulation)
+**Transmission:** Horizontal or vertical transmission; saliva through eyes/nose/respiratory tract; milk; blood transfusion; placenta; urine; faeces; shed in saliva, blood and reproductive secretions; infection often through mucous membrane exposure (copulation)
 
 **Clinical Signs:**
 
@@ -16,9 +16,15 @@ Acute:
 
 - Fever; lymphadenopathy; leukopenia; viraemia
 
-Acute:
+Chronic:
 
-- Chronic: lymphoid tumours; ophthalmic tumours; myeloproliferative diseases: anaemia, leukopenia, septicaemia; myelosuppressive diseases: non-regenerative anaemia, panleukopenia-like syndrome; glomerulonephritis; immunosuppression; fibrosarcomas
+- Lymphoid tumours
+
+- Ophthalmic tumours
+
+- Myeloproliferative diseases: anaemia, leukopenia, septicaemia
+
+- Myelosuppressive diseases: non-regenerative anaemia, panleukopenia-like syndrome; glomerulonephritis; immunosuppression; fibrosarcomas
 
 **Pathological signs:**
 

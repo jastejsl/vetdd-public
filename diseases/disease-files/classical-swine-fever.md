@@ -4,13 +4,11 @@
 
 **Affects:** Pigs only
 
-Eradicated from South Africa (last outbreaks: 1918 and 2007); notifiable and controlled disease
-
 **Primary Organ System:** Vascular; Lymphoid; Digestive
 
 **Secondary Organ System:** Nervous; Integumentary; Renal
 
-**Tranmission:** Pig-to-pig only; oral and intranasal routes; transplacental; shed in all secretions
+**Transmission:** Pig-to-pig only; oral and intranasal routes; transplacental; shed in all secretions
 
 **Clinical Signs:**
 

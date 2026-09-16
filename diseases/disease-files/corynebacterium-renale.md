@@ -8,9 +8,7 @@ Most common cause of urinary tract infections in the renale group; often seen af
 
 **Secondary Organ System:** Reproductive (transmission facilitated by parturition)
 
-**Tranmission:** Urine aerosol spray onto vulva of susceptible cows in close contact; venereal transmission; careless use of AI catheters
-
-**Gram Positive** (Non-sporing, irregular rods; commensal in external urogenital tract of cattle and sheep)
+**Transmission:** Urine aerosol spray onto vulva of susceptible cows in close contact; venereal transmission; careless use of AI catheters
 
 **Clinical Signs:**
 

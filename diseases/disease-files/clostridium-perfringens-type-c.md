@@ -2,8 +2,6 @@
 
 **Affects:** Cattle (newborn calves); sheep (lambs, occasionally adult sheep); pigs (piglets, neonatal pigs <7 days)
 
-Mainly young animals (occasionally diagnosed in SA in calves, lambs and piglets); affects all animals causing haemorrhagic enterotoxaemia or haemorrhagic/necrotic enteritis.
-
 **Primary Organ System:** Gastrointestinal tract (jejunum and ileum)
 
 **Secondary Organ System:** Associated lymph nodes (haemorrhagic and enlarged)

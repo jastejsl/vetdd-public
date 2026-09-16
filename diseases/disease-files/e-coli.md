@@ -2,15 +2,11 @@
 
 **Affects:** Pigs, cattle, sheep, goats, horses; sows; young animals and neonates most severely affected
 
-Major economic significance worldwide; in SA enteric colibacillosis most common in piglets, less so in calves, lambs and goats
-
 **Primary Organ System:** Gastrointestinal
 
 **Secondary Organ System:** Cardiovascular; Urinary; Respiratory; Nervous system
 
-**Tranmission:** Faecal-oral (diarrhoea); colisepticaemia may also be via umbilicus; ingestion of very large numbers of pathogenic E. coli required for colonization; carrier dams and persistently infected environment
-
-**Gram Negative** (Facultatively anaerobic rods; Enterobacteriaceae)
+**Transmission:** Faecal-oral (diarrhoea); colisepticaemia may also be via umbilicus; ingestion of very large numbers of pathogenic E. coli required for colonization; carrier dams and persistently infected environment
 
 **Clinical Signs:**
 

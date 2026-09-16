@@ -2,15 +2,11 @@
 
 **Affects:** Pigs (all ages, mostly 12–15 weeks)
 
-Highly contagious, often fatal; primary pathogen of respiratory tract of pigs
-
 **Primary Organ System:** Respiratory
 
 **Secondary Organ System:** Cardiovascular
 
-**Tranmission:** Highly contagious respiratory spread; direct contact between pigs
-
-**Gram Negative** (rods; family Pasteurellaceae)
+**Transmission:** Highly contagious respiratory spread; direct contact between pigs
 
 **Clinical Signs:**
 

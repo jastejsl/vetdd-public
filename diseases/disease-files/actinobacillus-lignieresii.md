@@ -8,9 +8,7 @@ Cattle 2–5 years most commonly affected; sporadic in individual animals (tongu
 
 **Secondary Organ System:** Lymphatic (regional lymph nodes); skin
 
-**Tranmission:** Entry via injuries to oral mucosa or skin (coarse feed, teeth eruptions, thorns, tick bites); commensal of oral mucosa and oropharynx
-
-**Gram Negative** (non-motile rods; family Pasteurellaceae)
+**Transmission:** Entry via injuries to oral mucosa or skin (coarse feed, teeth eruptions, thorns, tick bites); commensal of oral mucosa and oropharynx
 
 **Clinical Signs:**
 

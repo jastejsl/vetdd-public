@@ -8,9 +8,7 @@ Environmental organism; low immunity and high contamination predispose; commonly
 
 **Secondary Organ System:** Gastrointestinal; Reproductive; Urinary; Mammary
 
-**Tranmission:** Environment and intestinal tract; nosocomial infections; predisposed by low immunity and high contamination
-
-**Gram Negative** (Rods; Enterobacteriaceae)
+**Transmission:** Environment and intestinal tract; nosocomial infections; predisposed by low immunity and high contamination
 
 **Clinical Signs:**
 

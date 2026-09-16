@@ -2,15 +2,11 @@
 
 **Affects:** Horses; donkeys; mules
 
-Major cause of abortion in horses; mare is subclinical carrier; freely crosses the placenta; worldwide distribution.
-
 **Primary Organ System:** Haematological
 
 **Secondary Organ System:** Reproductive; Renal
 
 **Identification tips:** Maltese cross (tetrad) formation in erythrocytes (characteristic)
-
-**Transmission:** Vector
 
 **Clinical Signs:**
 

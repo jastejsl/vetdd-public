@@ -10,15 +10,11 @@
 
 **Affects:** Sheep, goats; horses; cattle (ulcerative lymphangitis); humans (lymphadenitis)
 
-No evidence of cross-infection between species; bacteria can persist in contaminated soil for up to 2 years
-
 **Primary Organ System:** Lymphatic
 
 **Secondary Organ System:** Respiratory (visceral abscesses in lungs); Renal; Hepatic
 
-**Tranmission:** Direct contact with pus or secretions from abscesses through wounds; ingestion; inhalation; fomites; lactogenic transmission (if mammary gland access); high environmental contamination; dipping vats
-
-**Gram Positive** (Facultative intracellular anaerobe, non-sporing, irregular rods)
+**Transmission:** Direct contact with pus or secretions from abscesses through wounds; ingestion; inhalation; fomites; lactogenic transmission (if mammary gland access); high environmental contamination; dipping vats
 
 **Clinical Signs:**
 

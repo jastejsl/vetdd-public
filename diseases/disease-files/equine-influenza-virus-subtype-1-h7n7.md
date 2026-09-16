@@ -2,8 +2,6 @@
 
 **Affects:** Horses
 
-H7N7 subtype is considered extinct; notifiable and controlled disease in South Africa; high contagion
-
 **Primary Organ System:** Respiratory
 
 **Secondary Organ System:** Musculoskeletal

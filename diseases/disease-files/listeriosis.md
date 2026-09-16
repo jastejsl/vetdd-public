@@ -10,8 +10,6 @@ Three syndromes (rarely occur together): meningoencephalitis, abortion/stillbirt
 
 **Transmission:** Faecal-oral route; aerosol; close contact; arthropods; widely distributed in environment (soil, vegetation, pasture, silage, sewage, water); bacteria shed in faeces and all body fluids
 
-**Gram Positive** (Obligate intracellular bacteria; grows from 4–44°C; tolerates freezing; best growth at neutral to slightly alkaline pH)
-
 **Clinical Signs:**
 
 - Meningoencephalitis: Depression progressing to somnolence; incoordination, circling, head tilts; unilateral facial nerve paralysis (drooping lips, ears, eyelids, drooling, dysphagia)

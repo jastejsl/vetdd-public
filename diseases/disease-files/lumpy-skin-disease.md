@@ -2,13 +2,11 @@
 
 **Affects:** Cattle (imported thin-skinned breeds most susceptible); springbok; giraffe; buffalo; impala
 
-Bos taurus breeds (Friesland) most susceptible; endemic in South Africa; notifiable disease; MAJOR socioeconomic impact
-
 **Primary Organ System:** Integumentary (Skin); Vascular
 
 **Secondary Organ System:** Respiratory; Lymphoid; Reproductive; Musculoskeletal
 
-**Tranmission:** Biting insects (Stomoxys); ticks (R. appendiculatus, A. hebraeum, R. decoloratus); iatrogenic; saliva (drinking troughs)/milk; semen (present up to 42 days); animal movement
+**Transmission:** Biting insects (Stomoxys); ticks (R. appendiculatus, A. hebraeum, R. decoloratus); iatrogenic; saliva (drinking troughs)/milk; semen (present up to 42 days); animal movement
 
 **Clinical Signs:**
 

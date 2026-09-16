@@ -28,7 +28,7 @@
 
 - Respiratory: bronchiolitis and necrosis; alveolar collapse
 
-- GIT: enteritis
+- GIT: enteritis 
 
 - Ocular: conjunctivitis
 

@@ -18,7 +18,7 @@
 
 - Respiratory symptoms
 
-Peracujte:
+Peracute:
 
 - Minimal clinical signs
 

@@ -2,8 +2,6 @@
 
 **Affects:** Domestic and wild felids only
 
-Worldwide; carriers shed virus intermittently; latency in trigeminal ganglia; reactivated by stress
-
 **Primary Organ System:** Respiratory; Ocular
 
 **Secondary Organ System:** Oral

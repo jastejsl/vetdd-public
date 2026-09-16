@@ -1,4 +1,4 @@
-**Specific Causes:** Alcelaphine gammaherpesvirus 1 (AlHV-1; Macavirus alcelaphinegamma 1)
+**Specific Causes:** Alcelaphine gammaherpesvirus 1
 
 **Affects:** Cattle; blue and black wildebeest (carriers); ovine (sheep-associated MCF)
 

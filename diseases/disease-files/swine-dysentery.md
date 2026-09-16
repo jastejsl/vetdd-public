@@ -2,13 +2,9 @@
 
 **Affects:** Pigs (mainly 6–12 weeks)
 
-World-wide peracute to chronic infectious enteric disease; characterized by diarrhoea (typhlocolitis), mucus, blood and necrotic material in faeces; causes severe economic losses. Uncommon in SA
-
 **Primary Organ System:** Alimentary (large intestine/colon)
 
-**Tranmission:** Faecal-oral; introduced by infected stock, mechanical via workers, vectors (dogs, rodents, birds); maintained by carrier pigs and faecally contaminated feed/water
-
-**Gram Negative** (aerotolerant anaerobic, motile spirochaete; sensitive to drying, acidity and most disinfectants; survives in moist/cool environments; survives in soil 10 days, soil with faeces 78 days, pure pig faeces 112 days)
+**Transmission:** Faecal-oral; introduced by infected stock, mechanical via workers, vectors (dogs, rodents, birds); maintained by carrier pigs and faecally contaminated feed/water
 
 **Clinical Signs:**
 

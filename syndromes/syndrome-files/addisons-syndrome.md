@@ -48,34 +48,45 @@ Concurrent immune-mediated diseases: autoimmune anaemia, hepatitis, hypothyroidi
 
 **Pathophysiology / Mechanism of development:**
 
-1. Typical Addisons: 
+1. Typical Addisons:
 
 Immune-mediated  / granulomatous inflammation / DIC / metastatic neoplasia / iatrogenic  | (initial insult/origin)
-→ progressive destruction of all 3 zones of adrenal cortex (>90% tissue must be lost before CS appear) 
-→ loss of both aldosterone (Z. glomerulosa) AND cortisol (Z. fasciculata) 
-→ aldosterone deficiency: Na ⁺ / Cl ⁻  loss → osmotic diuresis → dehydration 
-→ pre-renal azotaemia + K ⁺  retention 
-→ hyperkalaemia 
-→ cardiotoxic bradyarrhythmias; cortisol deficiency: loss of gluconeogenesis 
-→ hypoglycaemia; loss of vascular tone 
-→ hypotension; loss of stress response 
+
+→ progressive destruction of all 3 zones of adrenal cortex (>90% tissue must be lost before CS appear)
+
+→ loss of both aldosterone (Z. glomerulosa) AND cortisol (Z. fasciculata)
+
+→ aldosterone deficiency: Na ⁺ / Cl ⁻  loss → osmotic diuresis → dehydration
+
+→ pre-renal azotaemia + K ⁺  retention
+
+→ hyperkalaemia
+
+→ cardiotoxic bradyarrhythmias; cortisol deficiency: loss of gluconeogenesis
+
+→ hypoglycaemia; loss of vascular tone
+
+→ hypotension; loss of stress response
+
 → Addisonian crisis on any major stressor
 
+2. Atypical Addisons:
 
-2. Atypical Addisons: 
+Destruction of inner layers only (Z. fasciculata + Z. reticularis) with Z. glomerulosa preserved
 
-Destruction of inner layers only (Z. fasciculata + Z. reticularis) with Z. glomerulosa preserved 
-→ isolated glucocorticoid deficiency 
+→ isolated glucocorticoid deficiency
+
 → normal Na:K ratio; vague GIT signs; hypoglycaemia; normal electrolytes
 
+3. Secondary Addisons
 
-3. Secondary Addisons 
+Hypothalamic/pituitary lesion → ↓ACTH → cortisol deficiency only
 
-Hypothalamic/pituitary lesion → ↓ACTH → cortisol deficiency only 
 Aldosterone unaffected — controlled by RAAS, not ACTH under normal conditions)
-OR 
-Sudden withdrawal of chronic glucocorticoid therapy → adrenal atrophy → transient cortisol deficiency
 
+OR
+
+Sudden withdrawal of chronic glucocorticoid therapy → adrenal atrophy → transient cortisol deficiency
 
 **Diagnosis:**
 
@@ -85,27 +96,36 @@ Sudden withdrawal of chronic glucocorticoid therapy → adrenal atrophy → tran
 
 - ECG: bradycardia, tenting of T wave, shortened QT interval, widened QRS, disappearance of P waves — correlate with K ⁺  level
 
-
 **Lab findings:**
 
-- Serum electrolytes: 
-  - Hyponatraemia
-  - Hypochloraemia
-  - Hyperkalaemia
-  - Na:K ratio <23:1 (normal 27:1–40:1) consistent with Addisons (NOT pathognomonic)
+- Serum electrolytes:
 
-- Serum biochemistry: 
-  - Pre-renal azotaemia (urea + creatinine elevated)
-  - Hypoglycaemia (~25%)
-  - Hypoalbuminaemia
-  - Hypocholesterolaemia
-  - Elevated liver enzymes
-  - Hypercalcaemia (decreased renal Ca excretion due to hypocortisolaemia)
+- Hyponatraemia
 
+- Hypochloraemia
 
-- Haematology: 
-  - Mild normocytic normochromic non-regenerative anaemia
-  - Eosinophilia and lymphocytosis (tip-off sign in a sick/stressed dog that should have eosinopaenia)
+- Hyperkalaemia
 
+- Na:K ratio <23:1 (normal 27:1–40:1) consistent with Addisons (NOT pathognomonic)
+
+- Serum biochemistry:
+
+- Pre-renal azotaemia (urea + creatinine elevated)
+
+- Hypoglycaemia (~25%)
+
+- Hypoalbuminaemia
+
+- Hypocholesterolaemia
+
+- Elevated liver enzymes
+
+- Hypercalcaemia (decreased renal Ca excretion due to hypocortisolaemia)
+
+- Haematology:
+
+- Mild normocytic normochromic non-regenerative anaemia
+
+- Eosinophilia and lymphocytosis (tip-off sign in a sick/stressed dog that should have eosinopaenia)
 
 - Urinalysis: low SG (dilute urine; Na washout)

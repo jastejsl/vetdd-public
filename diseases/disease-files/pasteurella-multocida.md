@@ -14,8 +14,6 @@
 
 **Transmission:** Aerosol or ingestion from carrier animals; stress triggers shedding. Carrier animals common source
 
-**Gram Negative** (Rods; family Pasteurellaceae)
-
 **Clinical Signs:**
 
 - High fever

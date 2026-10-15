@@ -1,1 +1,0 @@
-Syndrome details and management approaches will be added in due course

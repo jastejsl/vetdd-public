@@ -25,7 +25,3 @@
 - Serology
 
 - PCR
-
----
-
-[need feedback if this is even worth keeping]

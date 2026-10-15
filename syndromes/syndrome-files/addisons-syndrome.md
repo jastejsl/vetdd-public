@@ -48,6 +48,8 @@ Concurrent immune-mediated diseases: autoimmune anaemia, hepatitis, hypothyroidi
 
 **Pathophysiology / Mechanism of development:**
 
+---
+
 1. Typical Addisons:
 
 Immune-mediated  / granulomatous inflammation / DIC / metastatic neoplasia / iatrogenic  | (initial insult/origin)
@@ -70,6 +72,8 @@ Immune-mediated  / granulomatous inflammation / DIC / metastatic neoplasia / iat
 
 → Addisonian crisis on any major stressor
 
+---
+
 2. Atypical Addisons:
 
 Destruction of inner layers only (Z. fasciculata + Z. reticularis) with Z. glomerulosa preserved
@@ -77,6 +81,8 @@ Destruction of inner layers only (Z. fasciculata + Z. reticularis) with Z. glome
 → isolated glucocorticoid deficiency
 
 → normal Na:K ratio; vague GIT signs; hypoglycaemia; normal electrolytes
+
+---
 
 3. Secondary Addisons
 
@@ -87,6 +93,8 @@ Aldosterone unaffected — controlled by RAAS, not ACTH under normal conditions)
 OR
 
 Sudden withdrawal of chronic glucocorticoid therapy → adrenal atrophy → transient cortisol deficiency
+
+---
 
 **Diagnosis:**
 
@@ -99,33 +107,20 @@ Sudden withdrawal of chronic glucocorticoid therapy → adrenal atrophy → tran
 **Lab findings:**
 
 - Serum electrolytes:
-
-- Hyponatraemia
-
-- Hypochloraemia
-
-- Hyperkalaemia
-
-- Na:K ratio <23:1 (normal 27:1–40:1) consistent with Addisons (NOT pathognomonic)
+  - Hyponatraemia
+  - Hypochloraemia
+  - Hyperkalaemia
+  - Na:K ratio <23:1 (normal 27:1–40:1) consistent with Addisons (NOT pathognomonic)
 
 - Serum biochemistry:
-
-- Pre-renal azotaemia (urea + creatinine elevated)
-
-- Hypoglycaemia (~25%)
-
-- Hypoalbuminaemia
-
-- Hypocholesterolaemia
-
-- Elevated liver enzymes
-
-- Hypercalcaemia (decreased renal Ca excretion due to hypocortisolaemia)
+  - Pre-renal azotaemia (urea + creatinine elevated)
+  - Hypoglycaemia (~25%)
+  - Hypoalbuminaemia
+  - Hypocholesterolaemia
+  - Elevated liver enzymes
+  - Hypercalcaemia (decreased renal Ca excretion due to hypocortisolaemia)
 
 - Haematology:
-
-- Mild normocytic normochromic non-regenerative anaemia
-
-- Eosinophilia and lymphocytosis (tip-off sign in a sick/stressed dog that should have eosinopaenia)
-
-- Urinalysis: low SG (dilute urine; Na washout)
+  - Mild normocytic normochromic non-regenerative anaemia
+  - Eosinophilia and lymphocytosis (tip-off sign in a sick/stressed dog that should have eosinopaenia)
+  - Urinalysis: low SG (dilute urine; Na washout)

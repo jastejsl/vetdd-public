@@ -9,6 +9,8 @@ on:
       - 'syndromes/syndrome-files/**'
       - 'pathology/organ-path/**'
       - 'pathology/gen-path/**'
+      - 'parasitology/**'
+      - 'toxicology/**'
 
 jobs:
   dispatch-reverse-sync:
